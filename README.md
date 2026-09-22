@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/n0paths/engine/main/hero.png.png" width="100%" alt="n0paths">
 </p>
 
-<h1 align="center">n0paths</h1>
 
 <p align="center">
   <strong>Deterministic pricing primitives for onchain markets.</strong>
