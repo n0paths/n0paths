@@ -24,39 +24,7 @@
 
 ---
 
-<table align="center">
-<tr>
 
-<td width="50%" align="center" valign="middle">
-
-### 01 / engine
-
-**Deterministic pricing primitives.**
-
-Exact moments → distribution fit → deterministic execution.
-
-<code>Solidity</code> · <code>WAD</code> · <code>onchain</code>
-
-**[explore engine →](https://github.com/n0paths/engine)**
-
-</td>
-
-<td width="50%" align="center" valign="middle">
-
-### 02 / benchmarks
-
-**Reproducible pricing experiments.**
-
-Deterministic estimates ↔ Monte Carlo reference.
-
-<code>TypeScript</code> · <code>GBM</code> · <code>research</code>
-
-**[explore benchmarks →](https://github.com/n0paths/benchmarks)**
-
-</td>
-
-</tr>
-</table>
 
 <p align="center">
   <code>∞ possibilities</code>
@@ -69,6 +37,4 @@ Deterministic estimates ↔ Monte Carlo reference.
 <br>
 </table>
 
-<p align="center">
-  <code>∞ possibilities · 0 paths · 1 price</code>
 </p>
