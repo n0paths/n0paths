@@ -67,14 +67,6 @@ Deterministic estimates ↔ Monte Carlo reference.
 </p>
 
 <br>
-
-<p align="center">
-  <code>∞ possibilities</code>
-  &nbsp;&nbsp;→&nbsp;&nbsp;
-  <code>0 paths</code>
-  &nbsp;&nbsp;→&nbsp;&nbsp;
-  <strong>1 price</strong>
-</p>
 </table>
 
 <p align="center">
