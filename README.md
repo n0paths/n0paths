@@ -24,49 +24,47 @@
 
 ---
 
-<table>
-<table>
+<table align="center">
 <tr>
-<td width="50%" valign="top">
 
-<h3>01 / engine</h3>
+<td width="50%" align="center" valign="middle">
 
-<strong>Deterministic pricing primitives.</strong>
+### 01 / engine
 
-<br><br>
+**Deterministic pricing primitives.**
 
 Exact moments → distribution fit → deterministic execution.
 
-<br><br>
+<code>Solidity</code> · <code>WAD</code> · <code>onchain</code>
 
-<code>Solidity</code> &nbsp; <code>WAD</code> &nbsp; <code>onchain</code>
-
-<br><br>
-
-<a href="https://github.com/n0paths/engine"><strong>explore engine →</strong></a>
+**[explore engine →](https://github.com/n0paths/engine)**
 
 </td>
-<td width="50%" valign="top">
 
-<h3>02 / benchmarks</h3>
+<td width="50%" align="center" valign="middle">
 
-<strong>Reproducible pricing experiments.</strong>
+### 02 / benchmarks
 
-<br><br>
+**Reproducible pricing experiments.**
 
 Deterministic estimates ↔ Monte Carlo reference.
 
-<br><br>
+<code>TypeScript</code> · <code>GBM</code> · <code>research</code>
 
-<code>TypeScript</code> &nbsp; <code>GBM</code> &nbsp; <code>research</code>
-
-<br><br>
-
-<a href="https://github.com/n0paths/benchmarks"><strong>explore benchmarks →</strong></a>
+**[explore benchmarks →](https://github.com/n0paths/benchmarks)**
 
 </td>
+
 </tr>
 </table>
+
+<p align="center">
+  <code>∞ possibilities</code>
+  &nbsp;·&nbsp;
+  <code>0 paths</code>
+  &nbsp;·&nbsp;
+  <strong>1 price</strong>
+</p>
 
 <br>
 
