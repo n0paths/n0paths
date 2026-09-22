@@ -25,54 +25,58 @@
 ---
 
 <table>
+<table>
 <tr>
 <td width="50%" valign="top">
 
-### engine
+<h3>01 / engine</h3>
 
-Deterministic derivatives pricing for constrained onchain execution.
+<strong>Deterministic pricing primitives.</strong>
 
-**[n0paths/engine →](https://github.com/n0paths/engine)**
+<br><br>
 
-```text
-market state
-     │
-     ▼
-analytical moments
-     │
-     ▼
-distribution approximation
-     │
-     ▼
-deterministic execution
-     │
-     ▼
-one price
-```
+Exact moments → distribution fit → deterministic execution.
+
+<br><br>
+
+<code>Solidity</code> &nbsp; <code>WAD</code> &nbsp; <code>onchain</code>
+
+<br><br>
+
+<a href="https://github.com/n0paths/engine"><strong>explore engine →</strong></a>
 
 </td>
 <td width="50%" valign="top">
 
-### benchmarks
+<h3>02 / benchmarks</h3>
 
-Reproducible experiments for deterministic onchain pricing.
+<strong>Reproducible pricing experiments.</strong>
 
-**[n0paths/benchmarks →](https://github.com/n0paths/benchmarks)**
+<br><br>
 
-```text
-deterministic price
-        │
-        ↕
-Monte Carlo estimate
-        │
-        ▼
-approximation error
-sampling uncertainty
-computational tradeoffs
-```
+Deterministic estimates ↔ Monte Carlo reference.
+
+<br><br>
+
+<code>TypeScript</code> &nbsp; <code>GBM</code> &nbsp; <code>research</code>
+
+<br><br>
+
+<a href="https://github.com/n0paths/benchmarks"><strong>explore benchmarks →</strong></a>
 
 </td>
 </tr>
+</table>
+
+<br>
+
+<p align="center">
+  <code>∞ possibilities</code>
+  &nbsp;&nbsp;→&nbsp;&nbsp;
+  <code>0 paths</code>
+  &nbsp;&nbsp;→&nbsp;&nbsp;
+  <strong>1 price</strong>
+</p>
 </table>
 
 <p align="center">
