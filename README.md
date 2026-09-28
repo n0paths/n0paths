@@ -10,7 +10,6 @@
 <p align="center">
   <a href="https://n0paths.xyz/"><img src="https://img.shields.io/badge/website-111111?style=flat-square" alt="Website"></a>
   <a href="https://x.com/n0paths"><img src="https://img.shields.io/badge/@n0paths-111111?style=flat-square" alt="X"></a>
-  <a href="https://etherscan.io/address/0x72D8a762F2b1C317b85a437EB826aBeD79EDF5Dc"><img src="https://img.shields.io/badge/etherscan-111111?style=flat-square" alt="Etherscan"></a>
   <a href="https://n0paths.xyz/method"><img src="https://img.shields.io/badge/method-111111?style=flat-square" alt="Method"></a>
   <a href="https://n0paths.xyz/code"><img src="https://img.shields.io/badge/code-111111?style=flat-square" alt="Code"></a>
   <a href="https://github.com/n0paths/benchmarks"><img src="https://img.shields.io/badge/benchmarks-111111?style=flat-square" alt="Benchmarks"></a>
